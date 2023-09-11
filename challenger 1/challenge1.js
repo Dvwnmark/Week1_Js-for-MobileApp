@@ -13,6 +13,7 @@ markHeigherBMI = MarkBMI > JohnBMI;
 console.log("data 1 :");
 console.log("BMI OF MARK:", MarkBMI);
 console.log("BMI OF JOHN:", JohnBMI);
+console.log("MarkBMI higher than JohnBMI:");
 console.log(markHeigherBMI);
 
 //Data 2
@@ -28,4 +29,5 @@ let JohnBMI1 = JohnWeights1/(JohnHeights1**2);
 markHeigherBMI1 = MarkBMI1 > JohnBMI1;
 console.log("bmi of mark: ",MarkBMI1);
 console.log("bmi of john: ",JohnBMI1);
+console.log("MarkBMI higher than JohnBMI:");
 console.log(markHeigherBMI1);
